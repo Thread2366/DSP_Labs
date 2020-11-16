@@ -7,6 +7,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DSP_Lab1", "DSP_Lab1\DSP_La
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DSP_Lab2", "DSP_Lab2\DSP_Lab2.pyproj", "{CAE7E4AB-9896-49A6-9F42-EF8810DA5BDA}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DSP_Lab3", "DSP_Lab3\DSP_Lab3.pyproj", "{884A0D5C-FBD2-4DDF-8A0D-9CD4EDE00AB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,8 @@ Global
 		{A1860FFD-E7C3-479D-908A-92BB1A57F11D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAE7E4AB-9896-49A6-9F42-EF8810DA5BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CAE7E4AB-9896-49A6-9F42-EF8810DA5BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{884A0D5C-FBD2-4DDF-8A0D-9CD4EDE00AB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{884A0D5C-FBD2-4DDF-8A0D-9CD4EDE00AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
